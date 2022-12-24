@@ -1,5 +1,5 @@
 # CrossedPaths-iOS
-A Decentralized COVID-19 Exposure Notification App for Android Devices
+A Decentralized COVID-19 Exposure Notification App for iOS Devices
 ## Description
 - Users can activate CrossedPaths to track their time-stamped locations.     
 
